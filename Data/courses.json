@@ -139,4 +139,24 @@
         "thumbnail_url": "https://infostride.com/wp-content/uploads/2021/08/Sites-Built-with-Laravel-min.jpg",
         "details": "Laravel is a web application framework. A popular framework for PHP is Laravel. Using the Laravel framework saves a lot of time in developing web applications, eliminates the hassle of repetitive code creation, and allows for faster application development. It has become mandatory for a PHP developer to know the Laravel framework to work in the current job market. HTML, PHP, SQL and Object-oriented programming (OOP) If you have an idea about it, you can participate in the Laravel course."
     },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "name": "Laravel",
+        "rating": {
+            "number": 4.5,
+            "price": "4999"
+        },
+        "title": "Laravel 8 Live Course - The Complete Guide With Real World Projects",
+        "author": {
+            "name": "Bayzid",
+            "img": "https://scontent.fjsr1-1.fna.fbcdn.net/v/t1.6435-9/133216769_1031259950720968_7952678185739883143_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHIG6Zio7dc0o0RQ4R9RF2W4o5JI1W6cMPijkkjVbpww5AL_lPTth92XVsWongcsfQ24z60SmMpfRDZjXTFBsou&_nc_ohc=62aLgEqWN0AAX9gclvo&_nc_ht=scontent.fjsr1-1.fna&oh=00_AT81Z8Ue-y5I-D25n58OCcoiXVbamSiZ9uXwCM0ouFqd9Q&oe=637D27C0"
+        },
+        "thumbnail_url": "https://infostride.com/wp-content/uploads/2021/08/Sites-Built-with-Laravel-min.jpg",
+        "details": "Laravel is a web application framework. A popular framework for PHP is Laravel. Using the Laravel framework saves a lot of time in developing web applications, eliminates the hassle of repetitive code creation, and allows for faster application development. It has become mandatory for a PHP developer to know the Laravel framework to work in the current job market. HTML, PHP, SQL and Object-oriented programming (OOP) If you have an idea about it, you can participate in the Laravel course."
+    },
 ]
