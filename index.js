@@ -22,6 +22,11 @@ app.get("/courses/:id", (req, res) => {
     const singleCourses = courses.find(n => n._id === id)
     res.send(singleCourses)
 })
+app.get("/courses/det/:categoryid", (req, res) => {
+    const categoryid = req.params.categoryid;
+    const cours = courses.find(n => n.category_id == categoryid)
+    res.send(cours)
+})
 
 app.listen(port, () => {
     console.log('News Server Running On Port', port);
